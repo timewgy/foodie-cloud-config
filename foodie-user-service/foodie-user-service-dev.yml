@@ -9,5 +9,4 @@ userservice:
   registration:
     disabled: true
 
-# actuator
 
